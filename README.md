@@ -29,5 +29,12 @@
 · Windows10、11个人电脑，推荐环境，直接在自己的办公电脑或家用电脑上使用，随时使用随时关注，不会有任何问题。
 
 ## 使用效果展示
-![在微信里回复提问者问题](https://p1.mingdaoyun.cn/RiceText/e50eb66a-8e91-4bbe-979a-ca5df9cde651/6049b3586c16421510d92328/20230528/7Rca6Ubzfp0A7del1YbZeU1q3j8H4e1oeLaDa02Ndi15ddbv5U17a14XfM382g5a.jpg?e=1685247421&token=PGtAPYyCYxCQ1zckbL-ecATOk42z8P3jdPahEnzt:904sG9KSJCtQ_iQKKU_bI9S-Lyw=)
+在微信里回复提问者的问题
+
+![在微信里回复提问者的问题](https://p1.mingdaoyun.cn/RiceText/e50eb66a-8e91-4bbe-979a-ca5df9cde651/6049b3586c16421510d92328/20230528/7Rca6Ubzfp0A7del1YbZeU1q3j8H4e1oeLaDa02Ndi15ddbv5U17a14XfM382g5a.jpg?e=1685247421&token=PGtAPYyCYxCQ1zckbL-ecATOk42z8P3jdPahEnzt:904sG9KSJCtQ_iQKKU_bI9S-Lyw=)
+
+
+向量问答库内容管理
+
+![向量问答库内容管理](https://p1.mingdaoyun.cn/RiceText/e50eb66a-8e91-4bbe-979a-ca5df9cde651/6049b3586c16421510d92328/20230612/5B5l2m7621683Bc33M37a51n1G81decNay4u4reV0d9tb99w972a3Jdt2od7dZ6k.png?e=1686562370&token=PGtAPYyCYxCQ1zckbL-ecATOk42z8P3jdPahEnzt:sryh57BjuZ4wN3xP4qs5kQcr3nA=)
 
