@@ -54,7 +54,8 @@
 ![向量问答库内容管理](https://p1.mingdaoyun.cn/RiceText/e50eb66a-8e91-4bbe-979a-ca5df9cde651/6049b3586c16421510d92328/20230612/5B5l2m7621683Bc33M37a51n1G81decNay4u4reV0d9tb99w972a3Jdt2od7dZ6k.png?e=1686562370&token=PGtAPYyCYxCQ1zckbL-ecATOk42z8P3jdPahEnzt:sryh57BjuZ4wN3xP4qs5kQcr3nA=)
 
 
-## 联系作者试用
+
+## 联系作者试用或购买
 **试用机器人，请添加微信号：chatai5**
 
 **联系作者，请添加微信号：smileran27**
